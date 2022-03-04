@@ -1,2 +1,7 @@
-models/*
-dataSets/*
+models/*.h5
+models/*.ckpt
+models/*.meta
+models/checkpoint
+dataSets/*.jpg
+dataSets/TrainTestDataSmall2_2/*.jpg
+dataSets/TrainTestDataSmall2_2/*.txt
